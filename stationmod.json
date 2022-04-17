@@ -1,0 +1,11 @@
+{
+    "1.12.2": {
+        "0.1.0": "最初のバージョンです。"
+    },
+    "homepage": "https://github.com/ms0503/stationmod/releases/",
+    "promos": {
+        "1.12.2-latest": "0.1.0",
+        "1.12.2-recommended": "0.1.0"
+    }
+}
+
